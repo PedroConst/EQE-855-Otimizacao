@@ -1,4 +1,4 @@
-# EQE 002 - Otimização em Engenharia Química
+# EQE 855 - Otimização em Engenharia Química
 
 O objetivo desse curso é habilitar o aluno a formular e resolver problemas de otimização no projeto de equipamentos e de processos da indústria química. Serão estudados, de forma geral, os problemas de Programação Linear (LP) e Programação Não-Linear (NLP) com e sem restrições.
 
