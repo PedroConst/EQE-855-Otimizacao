@@ -1,14 +1,8 @@
-# EQE 855 - Otimização em Engenharia Química
+# EQE 855 - Otimização de Processos
 
 O objetivo desse curso é habilitar o aluno a formular e resolver problemas de otimização no projeto de equipamentos e de processos da indústria química. Serão estudados, de forma geral, os problemas de Programação Linear (LP) e Programação Não-Linear (NLP) com e sem restrições.
 
 Neste repositório, você encontrará todos os Jupyter Notebooks utilizados em aulas, assim como listas de exercícios e resoluções. Cada Notebook pode ser aberto direto no Google Colab para que o aluno possa interagir, modificar e implementar seus próprios códigos em Python.
-
-## Pré-requisitos (Recomendados):
-*	Introdução aos Cálculos de Processo (EQE 112)
-*	Cálculo Diferencial e Integral I, II e IV  (MAC 118, MAC 128, MAC 248)
-*	Álgebra Linear II (MAE 245)
-*	Métodos Numéricos Aplicados a Processos Químicos (EQE 358)
 
 ## Bibliografia Recomendada
 
